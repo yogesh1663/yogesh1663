@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogesh1663
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN,Larvel
+- 🌱 I’m currently working on Php/Larvel
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me yogesh.np14@gmail.com
 
